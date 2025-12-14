@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android Exercise</string>
+    <string name="content_description_send">Send</string>
+    <string name="account">Account</string>
+    <string name="back">Back</string>
+    <string name="more">More</string>
+    <string name="sarah">Sarah</string>
+    <string name="read_receipt">Read receipt</string>
 </resources>
